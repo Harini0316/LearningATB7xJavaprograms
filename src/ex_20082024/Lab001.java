@@ -5,7 +5,3 @@ public class Lab001 {
         System.out.println("Hello  World Harini!!!");
     }
 }
-
-public static void main(String[] args) {
-
-}
