@@ -1,6 +1,6 @@
 package ex_21082024;
 
-public class Lab30 {
+public class Lab030 {
     public static void main(String[] args) {
         // Relational Operators -> boolean
         // >,<, <=, >=, !=, ( ! = ) -> True or False
