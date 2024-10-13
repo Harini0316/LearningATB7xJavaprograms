@@ -18,7 +18,4 @@ public class Lab_039 {
         // ~ - Bitwise Not, >> - Right shift, << Left Shift, ^ - XOR
 
     }
-
-
-
     }
