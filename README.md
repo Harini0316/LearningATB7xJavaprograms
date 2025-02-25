@@ -18,3 +18,7 @@ we have done in the ATB7x Batch.
 -File IO
 
 -Other Misc Concepts
+
+
+Postman Collection also added. 
+![image](https://github.com/user-attachments/assets/a8921b72-b0f7-4eef-8599-5c703b430730)
